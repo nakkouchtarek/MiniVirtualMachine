@@ -1,0 +1,5 @@
+load r0 1
+load r1 2 
+add r2 r1 r0
+show r2
+hlt
